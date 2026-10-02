@@ -20,58 +20,56 @@ I enjoy working across the stack — from designing **backend APIs and databases
 ---
 
 ## 🛠️ Tech Stack
-
 ### Languages
-
-`C++` `Python` `JavaScript` `TypeScript` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
 ### Frontend
-
-`React` `Next.js` `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" />
+</p>
 
 ### Backend
-
-`Node.js` `Express.js` `REST APIs` `JWT`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
 ### Databases
-
-`MongoDB` `PostgreSQL` `MySQL`
-
-### Machine Learning / AI
-
-`NumPy` `Pandas` `Scikit-learn` `TensorFlow` `Deep Learning` `NLP`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
 ### Tools
-
-`Git` `GitHub` `Postman` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🛒 Full-Stack E-Commerce Platform
+### 🛒 Electronics E-Commerce Platform
 
-A complete electronics-focused e-commerce application with authentication, role-based authorization, product management, categories, and REST APIs.
+Full-stack e-commerce platform for electronics with authentication, role-based authorization, product and category management, and REST APIs.
 
 **React • Tailwind CSS • Node.js • Express.js • MongoDB**
 
+---
+
 ### 📚 CampusBooks
 
-A marketplace platform designed to help students buy and sell used academic books.
+A marketplace platform for students to buy and sell used academic books, with user roles, authentication, and product management.
 
 **Next.js • Node.js • Express.js • Database**
 
-### 🤖 Machine Learning Projects
+---
 
-Hands-on projects involving data preprocessing, feature engineering, model training, evaluation, and experimentation with real-world datasets.
+### 🍕 Food Delivery Web Application
 
-**Python • Pandas • NumPy • Scikit-learn**
+Responsive food delivery platform with **10+ reusable components**, **3 core routes**, cart and checkout functionality, built using React and Context API.
 
-### 🧠 NLP & LLM Projects
-
-Exploring language models, mathematical reasoning, prompting strategies, evaluation, and Natural Language Processing.
-
-**Python • NLP • LLMs • Deep Learning**
+**React.js • Vite • Context API • Vercel**
 
 ---
 
@@ -81,7 +79,6 @@ I regularly practice competitive programming and algorithmic problem solving to 
 
 `Arrays` • `Binary Search` • `Trees` • `Graphs` • `Greedy` • `Dynamic Programming` • `Recursion` • `Backtracking`
 
-🔗 **LeetCode** • **Codeforces** • **CodeChef**
 
 ---
 
@@ -104,12 +101,10 @@ I also enjoy exploring new technologies, building side projects, and learning by
 ---
 
 ## 📫 Let's Connect
-
 <p align="left">
-  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
-  <a href="YOUR_LINKEDIN_LINK">💼 LinkedIn</a> •
-  <a href="YOUR_LEETCODE_LINK">🧠 LeetCode</a> •
-  <a href="YOUR_CODEFORCES_LINK">🏆 Codeforces</a>
+  • <a href="https://www.linkedin.com/in/prince-patel-a6112b285/">LinkedIn</a><br>
+  • <a href="https://leetcode.com/u/PrincePatel91929/">LeetCode</a> <br>
+  • <a href="https://codeforces.com/profile/princepatel91929"> Codeforces</a>
 </p>
 
 ---
